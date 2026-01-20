@@ -91,7 +91,7 @@ Lambda-api-gateway-web-application/
 
 ### Contact Form UI
 
-![Web Application](screenshots/final-output.png)
+![Web Application](screenshots/web-application.png)
 
 ---
 
